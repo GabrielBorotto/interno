@@ -1,0 +1,11 @@
+{
+    "label": "Redes Sociais",
+    "position": 11,
+    "collapsible": true,
+    "collapsed": true,
+    "link": {
+        "type": "generated-index",
+        "title": "Redes Sociais",
+        "description": "Informações sobre as redes sociais da empresa"
+    }
+}
